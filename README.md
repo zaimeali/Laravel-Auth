@@ -8,3 +8,6 @@
 1) php artisan key:generate
 2) after creating db, editing env and registiring schema
 3) php artisan migrate
+
+
+1) composer update
