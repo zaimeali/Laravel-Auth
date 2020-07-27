@@ -2,6 +2,8 @@
 2) php artisan ui react --auth
 3) npm install
 4) npm run dev
+5) npm run watch
+6) npm i -s axios jwt-decode react-router-dom
 
 
 
