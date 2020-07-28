@@ -25,7 +25,7 @@ export default class Profile extends Component {
         return (
             <div className="container">
                 <div className="jumbotron mt-5">
-                    <div className="col-sm-4 mt-5">
+                    <div className="col-sm-4 mx-auto">
                         <h1 className="text-center">PROFILE</h1>
                     </div>
                     <table className="table col-md-4 mx-auto">
